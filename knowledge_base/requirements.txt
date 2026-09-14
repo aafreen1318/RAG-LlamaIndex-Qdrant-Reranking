@@ -1,0 +1,10 @@
+llama-index==0.14.24
+llama-index-embeddings-huggingface==0.8.0
+llama-index-llms-huggingface
+llama-index-vector-stores-qdrant
+llama-index-postprocessor-sbert-rerank
+qdrant-client==1.19.0
+sentence-transformers==6.0.1
+transformers
+accelerate
+torch
